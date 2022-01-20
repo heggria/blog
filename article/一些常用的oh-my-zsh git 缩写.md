@@ -6,7 +6,7 @@ gb = git branch
 gbd = git branch delete
 gcm = git checkout master
 gco = git checkout orgin
-gmom = git merge master
+gmom = git merge orgin master
 gsta = git stash push
 gstp = git stash pop
 ```
