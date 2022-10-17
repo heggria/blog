@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T15:29:17.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="K9pR3Xp6PyWo3wz5Hy0A" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T15:30:30.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="DFfGi3gvAQwe3Ub6ormK" version="20.4.1" type="github">
   <diagram id="TjR1-rSzGZyo8haZhh6W" name="第 1 页">
     <mxGraphModel dx="3406" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,6 +353,24 @@
         </mxCell>
         <mxCell id="LKFy4Z4dUArzQCND-wwM-74" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1533" y="1874" width="65" height="438" as="geometry" />
+        </mxCell>
+        <mxCell id="LKFy4Z4dUArzQCND-wwM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LKFy4Z4dUArzQCND-wwM-77" target="LKFy4Z4dUArzQCND-wwM-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKFy4Z4dUArzQCND-wwM-77" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1989" y="2552" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKFy4Z4dUArzQCND-wwM-78" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1989" y="2685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKFy4Z4dUArzQCND-wwM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LKFy4Z4dUArzQCND-wwM-81" target="LKFy4Z4dUArzQCND-wwM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LKFy4Z4dUArzQCND-wwM-81" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1831" y="2552" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKFy4Z4dUArzQCND-wwM-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1831" y="2685" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
