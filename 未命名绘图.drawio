@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T11:00:29.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MCBNF7vcq6Zr39vF4LWV" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T01:49:16.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ehWWnc5O6ZLn2iSpboaK" version="20.3.7" type="github">
   <diagram id="TjR1-rSzGZyo8haZhh6W" name="第 1 页">
-    <mxGraphModel dx="1528" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1767" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,20 +205,47 @@
         <mxCell id="ybRk64Y0vvIrRGSaYGFf-20" value="page state" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1513" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OfM3aT3gorayr-V404j--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-636" y="400" width="337" height="416" as="geometry" />
+        <mxCell id="OfM3aT3gorayr-V404j--24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1032" y="400" width="337" height="416" as="geometry" />
         </mxCell>
-        <mxCell id="OfM3aT3gorayr-V404j--2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-636" y="400" width="337" height="34" as="geometry" />
+        <mxCell id="OfM3aT3gorayr-V404j--25" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1032" y="400" width="337" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="OfM3aT3gorayr-V404j--7" value="NavBar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-636" y="434" width="107" height="317" as="geometry" />
+        <mxCell id="OfM3aT3gorayr-V404j--26" value="LeftSidebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1032" y="434" width="93" height="317" as="geometry" />
         </mxCell>
-        <mxCell id="OfM3aT3gorayr-V404j--8" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-636" y="751" width="337" height="65" as="geometry" />
+        <mxCell id="OfM3aT3gorayr-V404j--27" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1032" y="751" width="337" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="OfM3aT3gorayr-V404j--9" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-516" y="443" width="97" height="18" as="geometry" />
+        <mxCell id="OfM3aT3gorayr-V404j--28" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="445" width="97" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--29" value="页面基本组件结构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="363" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--30" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="491" width="162" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--31" value="CodeBlock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="572" width="162" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--32" value="CodePreview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="532" width="162" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--33" value="Text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="626" width="162" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--34" value="CodeBlock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="705" width="161" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--35" value="CodePreview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="667" width="162" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--37" value="Right Sidebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-754" y="445" width="48" height="294" as="geometry" />
+        </mxCell>
+        <mxCell id="OfM3aT3gorayr-V404j--38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-609" y="400" width="233" height="417" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
