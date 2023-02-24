@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T07:00:13.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oEI8HI7Em5gmwq75wKEL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T07:22:36.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CbPQFQW85zXWihBZXzTO" version="20.8.23" type="github">
   <diagram name="第 1 页" id="c5Gru5W-eX8UfuUOHiOT">
-    <mxGraphModel dx="2480" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1619" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LkF5VIXBnRj9gDnd6pt5-39" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-39" value="w" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-473" y="71" width="949" height="601" as="geometry" />
         </mxCell>
         <mxCell id="LkF5VIXBnRj9gDnd6pt5-13" value="" style="group" vertex="1" connectable="0" parent="LkF5VIXBnRj9gDnd6pt5-39">
@@ -84,6 +84,27 @@
         </mxCell>
         <mxCell id="LkF5VIXBnRj9gDnd6pt5-30" value="PageTitle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LkF5VIXBnRj9gDnd6pt5-24">
           <mxGeometry x="7.027635974034158" y="5.8320155261644615" width="80.81781370139282" height="19.440051753881537" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-40" value="FeeDialogContent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-813" y="724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LkF5VIXBnRj9gDnd6pt5-42" target="LkF5VIXBnRj9gDnd6pt5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LkF5VIXBnRj9gDnd6pt5-42" target="LkF5VIXBnRj9gDnd6pt5-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LkF5VIXBnRj9gDnd6pt5-42" target="LkF5VIXBnRj9gDnd6pt5-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-42" value="FeeTableProvider" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-813" y="537" width="388" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-43" value="FeeDialogContent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-679" y="724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkF5VIXBnRj9gDnd6pt5-44" value="FeeDialogContent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="724" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
