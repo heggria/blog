@@ -1,0 +1,16 @@
+# vue tsx `img` 标签 `src` 引入错误
+## 问题表现
+在 tsx 文件中使用相对路径，报 404
+```tsx
+// wrong
+<img class={styles['card-list-no-data']} src={'/src/assets/images/no-data.png'} />
+// wrong
+<img class={styles['card-list-no-data']} src={'@/assets/images/no-data.png'} /> 
+```
+## 问题分析
+路径解析问题，asset文件打包之后路径改变，需要找到新的路径
+
+## 问题解决
+```tsx
+<img class={styles['card-list-no-data']} src={'/src/assets/images/no-data.png'} />
+```
